@@ -1,3 +1,9 @@
+## Time Series
+- AR, MA, ARMA, ARIMA - https://towardsdatascience.com/time-series-models-d9266f8ac7b0
+- ACF & PACF - https://towardsdatascience.com/interpreting-acf-and-pacf-plots-for-time-series-forecasting-af0d6db4061c#:~:text=Both%20the%20ACF%20and%20PACF,indirect%20correlations%20in%20the%20calculation.
+- Time Series Project - https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+- Multivariate time series - https://towardsdatascience.com/multivariate-time-series-forecasting-653372b3db36
+
 ## Computer Vision
 - ResNets - https://cv-tricks.com/keras/understand-implement-resnets/
 - IOU & mAP - https://github.com/rafaelpadilla/Object-Detection-Metrics
