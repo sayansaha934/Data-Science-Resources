@@ -5,7 +5,7 @@
 - Multivariate time series - https://towardsdatascience.com/multivariate-time-series-forecasting-653372b3db36
 
 ## Computer Vision
-- MobileNet - https://medium.com/analytics-vidhya/image-classification-with-mobilenet-cc6fbb2cd470
+- MobileNet - https://medium.com/analytics-vidhya/image-classification-with-mobilenet-cc6fbb2cd470  & https://iq.opengenus.org/mobilenet-v1-architecture/
 - ResNets - https://cv-tricks.com/keras/understand-implement-resnets/
 - IOU & mAP - https://github.com/rafaelpadilla/Object-Detection-Metrics
 - RCNN/Fast-RCNN/Faster-RCNN - https://blog.paperspace.com/faster-r-cnn-explained-object-detection/
