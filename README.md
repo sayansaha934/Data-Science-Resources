@@ -8,7 +8,7 @@
 - MobileNet - https://medium.com/analytics-vidhya/image-classification-with-mobilenet-cc6fbb2cd470  & https://iq.opengenus.org/mobilenet-v1-architecture/
 - ResNets - https://cv-tricks.com/keras/understand-implement-resnets/
 - IOU & mAP - https://github.com/rafaelpadilla/Object-Detection-Metrics
-- RCNN/Fast-RCNN/Faster-RCNN - https://blog.paperspace.com/faster-r-cnn-explained-object-detection/
+- RCNN/Fast-RCNN/Faster-RCNN - https://blog.paperspace.com/faster-r-cnn-explained-object-detection/ OR https://medium.com/mlearning-ai/a-   brief-overview-of-r-cnn-fast-r-cnn-and-faster-r-cnn-9c6843c9ffc0
 - YOLO - https://www.slideshare.net/TaegyunJeon1/pr12-you-only-look-once-yolo-unified-realtime-object-detection
 
 
